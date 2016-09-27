@@ -53,7 +53,7 @@ public class MinMaxAvg
     }
 
 
-    public static boolean CheckNumSize(int n)
+    public static boolean CheckNumSize(Integer n)
     {
         if ((n >= -1000000) && (n <= 1000000))
         {
